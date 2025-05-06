@@ -1,6 +1,7 @@
 # gigachat
 
-Finetuning DistilBERT or GPT-4 sounds reasonable for the scope of the project. As for benchmark datasets, you may also check the following resources (some provided more fine-grained labels)
+------------------------------------------------------------------------------------
+Benchmark datasets: 
  
 r/Jokes Reddit Dataset (LREC 2020) https://github.com/orionw/rJokesData
 Humicroedit (SemEval 2020 Task 7) https://github.com/dora-tang/SemEval-2020-Task-7
@@ -13,10 +14,7 @@ unlabelled: https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes/data
  
 One challenge for AL in this domain is how to define uncertainty – One can derive uncertainty for a response for a given prompt. However, active prompt selection/engineering could be a more challenging task. You may want to dig into the literature in active prompt engineering to assess the feasibility of uncertainty sampling (or how to define the uncertain score for prompts).
  
-Best,
-Yuxin
- 
-
+---------------------------------------------------------------------------------
 
 
 
